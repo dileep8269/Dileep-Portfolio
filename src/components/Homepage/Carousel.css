@@ -1,0 +1,17 @@
+.swiper-button-prev,
+.swiper-button-next {
+    color: violet;
+    background-color: black;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.swiper-pagination-bullet {
+    width: 20px;
+    height: 20px;
+    background-color: blueviolet;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: rgb(183, 16, 16);
+}
